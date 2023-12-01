@@ -1,1 +1,1 @@
-# Design principle: Program to an nterface and not for an implementation
+# Design principle: Program to an interface and not for an implementation
